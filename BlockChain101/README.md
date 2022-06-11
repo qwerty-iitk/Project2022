@@ -12,4 +12,5 @@ These theoretical components will be supplemented by Programming assignments whi
 
 - Naman Singla (nsingla20@iitk.ac.in)
 
--
+-Nishant Roshan (nishantr20@iitk.ac.in)
+Mobile number- 9413712204
