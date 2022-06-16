@@ -8,6 +8,16 @@ A blockchain is a distributed, peer-to-peer database that hosts a continuously g
 
 These theoretical components will be supplemented by Programming assignments which would include implementation of some core features of a Blockchain like implementing Hashing Algorithm and Mining Blocks, Consensus Protocol , Public-Private Key Encryption and decryption and many more.
 
+```
+Project2022
+├── BlockChain101
+│   ├── README.md
+│   ├── Week 1
+│   │   ├── Assignment 1 BlockChain101.pdf
+│   │   └── README.md
+│   └── Week 2
+```
+
 ### Contact mentors
 
 - Naman Singla (nsingla20@iitk.ac.in)
