@@ -9,7 +9,7 @@
 ## Instructions:
 ### 1) Create a fork of this repository.
 ### 2) Create a folder <your_iitk_username> and upload all the tasks given to you in it.
-### 3) Create a pull requs=est with a proper description.
+### 3) Create a pull request with a proper description.
 
 ## Timeline
 
