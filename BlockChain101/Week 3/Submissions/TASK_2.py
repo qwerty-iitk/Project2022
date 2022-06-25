@@ -19,8 +19,13 @@ list=[]
 for x in str:
     list.extend(x)
 for x in list:
-    list[i]=ord(x)-64
-    i+=1   
+    if ord(x)<=57 and ord(x)>=48:
+        list[i]=int(x)
+        i=i+1
+    else:
+        list[i]=ord(x)-64
+        i+=1   
+print(list)
 i=0
 for x in list:
     if int(x/10)==0:
