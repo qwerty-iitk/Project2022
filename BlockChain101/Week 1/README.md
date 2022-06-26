@@ -13,11 +13,20 @@ Hi guys! Hope everyone must be doing great
 
 - [Blog1](https://blockgeeks.com/guides/history-of-blockchain/)  
  Firstly, go through this blog to get a feel of how and why the concept of decentralization and blockchain came into the picture and the concise history of blockchain. ( You can skip the “History Of Blockchain Consensus” to “Proof Of History” part of this blog as it will be covered later) Having read this go through these videos
+
 - [Video1](https://www.youtube.com/watch?v=SSo_EIwHSd4 )
+
 - [Video2](https://www.youtube.com/watch?v=bBC-nXj3Ng4)  
  Do go through the second video thoroughly, this is a real gem of a video, and will give you a good overview of the basic technicalities of blockchain technology.
+
 - [Video3](https://www.youtube.com/watch?v=IGSB9zoSx70)
+
 - [Blog2](https://learn.bybit.com/blockchain/what-is-hashing-in-blockchain/)  
  Watch the video and go through this blog on hashing in blockchain to know how important it is for a blockchain network, and how the cryptographic features are used to secure the transactions in the network.
-- [Blog3](https://101blockchains.com/peer-to-peer-network/)
+
+- [Blog3](https://101blockchains.com/peer-to-peer-network/)  
  Finally, read this blog to know what is P2P network, its role and advantages in a blockchain network, and how it is different from the traditional centralized network. Take a few days to go through it one by one. Don’t get intimidated if you do not understand some of the technical terms while reading the blogs, things will get clear slowly.
+
+## Submissions
+
+[Assignment 1 Submissions](https://docs.google.com/spreadsheets/d/1WtHYO60zkZmDtIZiu_wChxY3PMtpq1-u5jneAD8ZWv8/edit?usp=sharing)
