@@ -1,1 +1,0 @@
-*Summary of Git and Github*
