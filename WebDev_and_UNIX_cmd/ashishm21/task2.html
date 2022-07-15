@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ashish Meena</title>
+    <style>
+
+        ul{
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: black;
+        }
+        li {
+            float: left;
+        }
+        li a{
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        img{
+            margin-left: auto;
+            margin-right: auto;
+            display: flex;
+        }
+
+        h1{
+            text-align: center;
+            font-size: 200px;
+            padding: 30px;
+            margin: 0;
+            /* display: flex; */
+            /* mrgin-left: auto; */
+            /* margin-right: auto; */
+        } 
+
+        h2{
+            font-size: 50px ;
+            color: red;
+        }
+
+        p{
+            background-color: yellow;
+            
+            font-size: 20px;
+        }
+
+        h3{
+            font-size: 20px ;
+            color: black;
+        }
+
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+
+        th{
+            font-size: 30px;
+            color: brown;
+        }
+
+        td{
+            font-size: 20px;
+            color: purple;
+        }
+        
+    </style>
+</head>
+
+
+<body style = "background-color: powderblue;">
+    
+    <h1>Ashish Meena</h1>
+    <img src = "/Users/jericho431/Documents/personal/ashish important/ashish photo.jpeg" alt = "My Picture" style= "width:300px;">
+
+    <hr>
+
+    <ul>
+        <li><a href = "#Intro">Intro</a></li>
+        <li><a href = "#Hobbies">Hobbies</a></li>
+        <li><a href = "#Education">Education</a></li>
+        <li><a href = "#Contact Me"> Contact Me</a></li>
+    </ul>
+
+    <h2 id = "Intro">Introduction</h2>
+    <p>Hello everyone, Myself Ashish Meena(18yrs old) from karauli, Rajasthan. I am a 1st year undergraduate, currently pursuing B Tech in Computer Science from IIT Kanpur(2021-2025). My student guide's name is Ujwal kumar and i am a bakait from hall 2 Wing 7.  My favourite Anime are Naruto(This is the best one), Demon slayer, One piece.</p>
+
+    <div>
+    <h2 id = "Hobbies">Hobbies</h2>
+    <h3>Playing chess,valorant,smash karts</h3>
+    <h3>Watching Anime</h3>
+    <h3>Reading Manga</h3>
+    <h3>Not studying</h3>
+    </div>
+
+    <div>
+    <h2 id = "Education">Education</h2>
+    <table>
+        <tr>
+            <th>Classes Studied</th>
+            <th>School Name</th>
+        </tr>
+        <tr>
+            <td>1-2</td>
+            <td>Paradise Public School</tr>
+        </tr>
+        <tr>
+            <td>3-5</td>
+            <td>Manav Mangal Public School</td>
+        </tr>
+        <tr>
+            <td>6-10</td>
+            <td>DAV Public School</td>
+        </tr>
+        <tr>
+            <td>11-12</td>
+            <td>MVN Aravali Hills</td>
+        </tr>
+    </table>
+    </div>
+
+    <br>
+
+    <h2 id = "Contact Me">Contact Me</h2>
+    <form action= "/action_page.php">
+        <label for = "name" class = "label">Name</label><br>
+        <input type = "text" placeholder = "Enter Your Name" name = "name" ><br>
+        <label for = "email" class = "label">Your Email</label><br>
+        <input type = "text" placeholder = "Enter Your Email" name = "name" ><br>
+        Message<br>
+        <textarea name = "message" id = "message" cols = "60" rows = "10" placeholder = "Enter Your Message" ></textarea><br>
+
+        <input type="reset" value="reset"><br>
+        <input type="submit" value="Submit">
+        <!-- button -->
+
+    </form>
+    
+</body>
+</html

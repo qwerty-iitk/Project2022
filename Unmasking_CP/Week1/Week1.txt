@@ -1,0 +1,5 @@
+1. Introduced the mentees with Competitive Programming and various platforms to practice such as Codeforces, Codechef etc
+2. Installing and integrating VS-Code and some of its useful extensions
+3. Covered time and space complexity and the need to write efficient code
+4. Introduction to C++ and Standard Template Library of C++
+5. Organised mashup-contests based on STL algorithms and data structures
