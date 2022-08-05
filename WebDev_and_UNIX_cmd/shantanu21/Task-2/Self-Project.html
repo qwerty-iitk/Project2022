@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>About Me</title>
+        <meta charser="utf-8">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;600&display=swap" rel="stylesheet">
+    </head>
+    <body background="weathered-paper.jpg">
+        <style>
+            body{
+                font-family: 'Roboto Mono', monospace;
+            }
+            .center{
+                text-align:center;
+            }
+            .div1{
+                text-align:center;
+                background-color:brown;
+                color:white;
+            }
+            .div2{
+                font-weight:1000;
+                font-size:larger;
+            }
+            span{
+                font-size:larger;
+                text-decoration: underline;
+            }
+            ul{
+                margin-top:-30px;
+                margin-left:100px;
+            }
+            textarea{
+                margin-top:-18px;
+                margin-left:100px;
+            }
+        </style>
+        <div class="div1">
+        <h1>Case File#1072</h1>
+        </div>
+        <p class="center">
+        <img src="Mugshot-Front.jpg" alt="Mugshot-front" height="300" width="220" >
+        <img src="Mugshot-Side.jpg" alt="Mugshot-side" height="300" width="220">
+        </p>
+        <div class="div2">
+           Suspect Name: 
+           <span> Shantanu Kolte </span> 
+            <br> <br>
+            Evidence:
+            <span>
+            <ul>
+                 <li> Tournament Chess Set- Indicates affinity towards Chess</li>
+                 <li>Gaming Consoles- Proves he plays Video Games</li>
+                 <li>Books- Titles express inclination towards fiction, espescially horror</li>
+            </ul>
+            </span>        
+            Charges:
+            <span>
+                <ul>
+                    <li>Dealings with IIT-Kanpur, suspected to be pursuing a degree in Computer Science and Engineering</li>
+                    <li>Suspected to have been a student at Smt. Sulochanadevi Singhania School,Thane</li>
+                </ul>
+            </span>
+            Base of Operations: <span>Thane, Maharashtra</span>
+        </div>
+        <p class="center">Suspect is Dangerous. Please notify immediately upon sighting</p>
+        <form name="Contact" action="" >
+            <fieldset>
+            <label> Name: </label>
+            <input name="submitted-name" autocomplete="name">
+            <br>
+            <label>Mobile Number:</label>
+            <input type="number" min="1000000000" max="9999999999">
+            <br>
+            <label name="remark">Comments:
+            </label>
+            <br>
+            <textarea cols="40" rows="20" class=""></textarea>
+            <br>
+            <input type="submit" value="Submit">
+            </fieldset>
+        </form>
+    </body>
+</html>
