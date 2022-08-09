@@ -147,11 +147,15 @@ div.nav {
 .form {
   position: relative;
   left: 100px;
-  top: 98px;
+  top: 70px;
   font-size: 20px;
 }
 #last {
   position: relative;
   left: 90px;
-  top: 70px;
+  top: 60px;
+}
+.active {
+  background-color: #e4f9f5;
+  color: #2b2e4a;
 }
